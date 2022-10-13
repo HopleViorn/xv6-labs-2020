@@ -45,6 +45,7 @@ kvminit()
 }
 
 
+
 // Switch h/w page table register to the kernel's page table,
 // and enable paging.
 void
